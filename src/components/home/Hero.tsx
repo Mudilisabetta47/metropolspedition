@@ -27,10 +27,7 @@ export function Hero() {
         }} transition={{
           duration: 0.5
         }} className="mb-6">
-            <span className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-accent/20 text-accent text-sm font-medium border border-accent/30">
-              <span className="w-2 h-2 bg-accent rounded-full animate-pulse" />
-              Nahverkehr-Spezialist seit 2005
-            </span>
+            
           </motion.div>
 
           {/* Headline */}
